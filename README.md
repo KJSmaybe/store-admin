@@ -1,4 +1,5 @@
 # Store Admin
+[![CI](https://github.com/KJSmaybe/store-admin/actions/workflows/ci.yml/badge.svg)](https://github.com/KJSmaybe/store-admin/actions/workflows/ci.yml)
 
 Admin dashboard for managing an e-commerce store built with Nuxt 3, Vue 3, TypeScript, PostgreSQL and Prisma.
 
